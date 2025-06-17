@@ -1,0 +1,6 @@
+[submodule "WorkHelper-user"]
+	path = WorkHelper-user
+	url = git@github.com:0H3rY0/WorkHelper-user.git
+[submodule "WorkHelper-admin"]
+	path = WorkHelper-admin
+	url = git@github.com:0H3rY0/WorkHelper-admin.git
