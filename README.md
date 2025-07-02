@@ -5,6 +5,18 @@ This project was created during my internship at a company, based on specific re
 
 ⚠️ PS: Some parts of the application may be unclear, as it was developed with a very specific use case in mind — intended to be operated by a single administrative user, or at most two
 
+## 🛠️ More About Project
+The project is divided into two parts: the administrator panel and the user interface.
+This structure was implemented in accordance with the project requirements provided by company.
+
+To properly test the system, both interfaces should be open, and actions should be performed on both sides.
+
+**Test account for user login:**
+
+Email: `test@gmail.com`
+
+Password: `test`
+
 ## ⌨️ Technologies
 - **React**
 - **Node.js**
